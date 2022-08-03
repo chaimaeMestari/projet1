@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+server/node_modules
+Frontend/node_modules
+server/.env
+Frontend/.env
